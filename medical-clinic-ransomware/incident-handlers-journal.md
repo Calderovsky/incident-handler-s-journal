@@ -56,9 +56,9 @@
 | The 5 W's  | Capture the 5 W's of an incident. **Who** caused the incident? **What** happened? **When** did the incident occur? **Where** did the incident happen? **Why** did the incident happen? |  |  |
 | Additional notes | Include any additional thoughts, questions, or findings. |  |  |
 
-### Need another journal entry template?
+[comment]: # (### Need another journal entry template?)
 
-If you want to add more journal entries, please copy one of the tables above and paste it into the template to use for future entries.  
+[comment]: # (If you want to add more journal entries, please copy one of the tables above and paste it into the template to use for future entries.)
 ---
 
 | Reflections/Notes: Record additional notes. |
